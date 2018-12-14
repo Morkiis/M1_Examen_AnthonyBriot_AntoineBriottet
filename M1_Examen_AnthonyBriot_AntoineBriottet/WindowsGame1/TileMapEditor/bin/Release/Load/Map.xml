@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Map>
+  <TileDimensions>
+    <X>32</X>
+    <Y>32</Y>
+  </TileDimensions>
+
+  <Layer>
+    <Image>
+      <Path>Gameplay/TileSheets/grass_8</Path>
+    </Image>
+    <TileMap>
+      <Row>[O:O][O:O][O:O][O:O][O:O][0:O][0:O][O:O][O:O][O:O]</Row>
+      <Row>[O:O][O:O][O:O][O:O][O:O][0:0][0:0][O:O][O:O][O:O]</Row>
+      <Row>[O:O][O:O][0:O][O:O][O:O][O:O][O:O][O:O][O:O][O:O]</Row>
+      <Row>[O:O][O:O][O:O][O:O][0:O][O:O][O:O][O:O][O:O][O:O]</Row>
+      <Row>[O:O][O:O][O:O][0:O][O:O][0:O][O:O][O:O][O:O][O:O]</Row>
+      <Row>[O:O][O:O][O:O][O:O][O:O][O:O][O:O][O:O][O:O][O:O]</Row>
+      <Row>[O:O][O:O][0:O][O:O][O:O][O:O][0:O][O:O][O:O][O:O]</Row>
+      <Row>[O:O][O:O][O:O][O:O][O:O][O:O][O:O][O:O][O:O][O:O]</Row>
+      <Row>[O:O][0:O][O:O][O:O][O:O][O:O][O:O][O:O][O:O][O:O]</Row>
+    </TileMap>
+  </Layer>
+
+  <Layer>
+    <Image>
+      <Path>Gameplay/TileSheets/grass_8</Path>
+    </Image>
+    <SolidTiles>[5:0][5:1][5:2]</SolidTiles>
+    <TileMap>
+      <Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+      <Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+      <Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+      <Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+      <Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+      <Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+      <Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+      <Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+      <Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+    </TileMap>
+  </Layer>
+  
+  
+</Map>

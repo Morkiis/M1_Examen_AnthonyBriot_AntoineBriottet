@@ -1,0 +1,2 @@
+C:\Users\Morki\source\repos\WindowsGame1\Content\obj\x86\Debug\Content.contentprojAssemblyReference.cache
+C:\Users\Morki\source\repos\WindowsGame1\Content\obj\x86\Debug\Content.contentproj.CoreCompileInputs.cache
